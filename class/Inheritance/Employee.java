@@ -9,7 +9,7 @@ class developer extends Employee{
     }
 }
 class main{
-    public static void main(String[]args){
+    public static void main(String[] args){ 
         developer d=new developer();
         d.work();
         d.code();
