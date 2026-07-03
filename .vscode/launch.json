@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumberFormatDemo",
+            "request": "launch",
+            "mainClass": "NumberFormatDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "InputMismatchDemo",
+            "request": "launch",
+            "mainClass": "InputMismatchDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "NullPointerDemo",
+            "request": "launch",
+            "mainClass": "NullPointerDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexDemo",
+            "request": "launch",
+            "mainClass": "ArrayIndexDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "arithmetic",
+            "request": "launch",
+            "mainClass": "arithmetic",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "FileRead",
+            "request": "launch",
+            "mainClass": "FileRead",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
