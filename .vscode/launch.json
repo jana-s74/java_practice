@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConcatenationOfArray",
+            "request": "launch",
+            "mainClass": "ConcatenationOfArray",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "HollowSquare",
+            "request": "launch",
+            "mainClass": "HollowSquare",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "right_to_left",
+            "request": "launch",
+            "mainClass": "right_to_left",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "left_to_right",
+            "request": "launch",
+            "mainClass": "left_to_right",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "Square_star",
+            "request": "launch",
+            "mainClass": "Square_star",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Problems.Pattern1",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "Square_star",
+            "request": "launch",
+            "mainClass": "Problems.Square_star",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "FileExistsDemo",
+            "request": "launch",
+            "mainClass": "FileExistsDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "FileReadDemo",
+            "request": "launch",
+            "mainClass": "FileReadDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "FileWriteDemo",
+            "request": "launch",
+            "mainClass": "FileWriteDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "FileCreateDemo",
+            "request": "launch",
+            "mainClass": "FileCreateDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "java_sql1",
+            "request": "launch",
+            "mainClass": "java_sql1",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "java_sql",
+            "request": "launch",
+            "mainClass": "java_sql",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
             "name": "NumberFormatDemo",
             "request": "launch",
             "mainClass": "NumberFormatDemo",
