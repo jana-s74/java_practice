@@ -1,0 +1,39 @@
+QUEUE:
+
+FIFO
+It is mainly used when eelements need to be processed in the order they are inserted.
+
+WHY?
+We want to process elements in FIFO orer.
+we want to manage tasks one by one.
+it is ued in printing, ticket, booking, messageing, syustems, etc...
+
+Example:
+Imagine people standing in a ticket counter queue.
+
+METHODS:
+add()
+offer() - Adds an element (returns false instead of throwing an exception if it fails).
+remove()
+poll() - Returns the first element without removing ir, or null if empty.
+element() - Returns the first element without removing it.
+peek()
+size()
+isEmpty()
+
+PROGRAM:
+{
+queue.offer("Ravi");
+queue.offer("Priya");
+queue.offer("Kumar");
+s.o.p(queue);
+
+
+Queue<String> queue=new LinkedList<>();
+queue.add("JEEVA");
+queue.add("ANBU");
+queue.add("LAKHSHANA");
+S.O.P(queue);
+//First Element
+S.O.P(queue.peek());
+queue.poll();

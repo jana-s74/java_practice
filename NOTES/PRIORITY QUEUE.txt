@@ -1,0 +1,13 @@
+PRIORITY QUEUE:
+
+{
+  PriorityQueue<integer> pq = new PriorityQueue<>();
+  pq.add(50);
+  pq.add(20);
+  pq.add(40);
+  pq.add(10);
+  S.o.println(pq);
+  S.o.println(pq.peek());
+  S.o.println(pq.poll());
+  S.o.println(pq);
+}

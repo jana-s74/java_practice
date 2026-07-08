@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyRunnable",
+            "request": "launch",
+            "mainClass": "MyRunnable",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "MultipleThreads",
+            "request": "launch",
+            "mainClass": "MultipleThreads",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "MyThread",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "Collection.MyThread",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "MinimumCostToMoveChips",
+            "request": "launch",
+            "mainClass": "MinimumCostToMoveChips",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "MinimumCostToMoveChips",
+            "request": "launch",
+            "mainClass": "Collection.MinimumCostToMoveChips",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
             "name": "VectorDemo",
             "request": "launch",
             "mainClass": "Collection.VectorDemo",

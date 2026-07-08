@@ -7,7 +7,7 @@ public class IteratorDemo {
 
     public static void main(String[] args) {
 
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> li    st = new ArrayList<>();
 
         list.add("jana");
         list.add("kumar");
