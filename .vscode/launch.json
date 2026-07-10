@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algorithm",
+            "request": "launch",
+            "mainClass": "Algorithm",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "ONExample",
+            "request": "launch",
+            "mainClass": "ONExample",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "ComparableDemo",
+            "request": "launch",
+            "mainClass": "ComparableDemo",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
+            "name": "StreamAPI",
+            "request": "launch",
+            "mainClass": "StreamAPI",
+            "projectName": "java practice_d0c303a0"
+        },
+        {
+            "type": "java",
             "name": "MyRunnable",
             "request": "launch",
             "mainClass": "MyRunnable",
