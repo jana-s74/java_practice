@@ -18,7 +18,7 @@ public class PostOrderTraversal {
         postOrder(root.right);  // Right
         System.out.print(root.data + " "); // Root
     }
-
+    
     public static void main(String[] args) {
         Node root = new Node(1);
         root.left = new Node(2);
