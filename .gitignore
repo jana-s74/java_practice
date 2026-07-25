@@ -1,0 +1,7 @@
+# Ignore compiled Java class files
+*.class
+bin/
+
+# Ignore temporary build files
+*.log
+sources.txt
